@@ -31,5 +31,5 @@ But : faire appel à une API de films pour afficher des contenus dynamiques et p
 
 ---
 
-⬇️ Télécharger l’APK : [Release v1.0.0](https://github.com/tonpseudo/ton-repo/releases/tag/v1.0.0)
+⬇️ Télécharger l’APK : [Release v1.0.0](https://github.com/liiloouu16/flutter-movie-project/releases/download/v1.0.0/app-release.apk)
 
