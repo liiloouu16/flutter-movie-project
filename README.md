@@ -28,3 +28,8 @@ But : faire appel à une API de films pour afficher des contenus dynamiques et p
   - Durée  
   - Synopsis
   - Affiche du film
+
+---
+
+⬇️ Télécharger l’APK : [Release v1.0.0](https://github.com/tonpseudo/ton-repo/releases/tag/v1.0.0)
+
